@@ -11,6 +11,8 @@
 	Used For Project: 
 	-Visual Studio Code
 	-Ubuntu CommandInterpreter 
+	-For cmd files i have got help from my stackoverflow community.
+	-Source: Linux Komut Satırı-Kemal Demirez => also ive got learned many of scripts from this book.
 	
 	
 	Lecturer  : Yusuf Altunel
